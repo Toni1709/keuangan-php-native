@@ -1,6 +1,6 @@
 <?php
 require 'cek-sesi.php';
-// error_reporting(0);
+error_reporting(0);
 ?>
 <!DOCTYPE html>
 <html lang="en">
